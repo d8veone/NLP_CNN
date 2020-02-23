@@ -1,4 +1,4 @@
-# print("this is a debug message")
+# Codility test
 def solution(N):
     # write your code in Python 3.6
     if N >= 0:
